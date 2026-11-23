@@ -5,9 +5,9 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**Now** → building [ALAN BIRTH](https://alanbirth.com) · Collection 01 — FW26
-**Learning** → full-stack web development (JavaScript → React → Node.js)
-**Next** → KTH Royal Institute of Technology, Stockholm · 2028
+- **Now** → building [ALAN BIRTH](https://alanbirth.com) · Collection 01 — FW26
+- **Learning** → full-stack web development (JavaScript → React → Node.js)
+- **Next** → KTH Royal Institute of Technology, Stockholm · 2028
 
 ### Work
 
