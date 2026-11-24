@@ -16,7 +16,7 @@
 |---|---|---|---|
 | 01 | **[ALAN BIRTH](https://alanbirth.com)** — my streetwear brand, end to end; I designed and built the website (custom Shopify theme, 26 versions) | Shopify · Liquid · CSS · JS | building |
 | 02 | **Second Brain** — Obsidian vault wired to Claude Code, versioned with Git | Markdown · Hooks · Git | live |
-| 03 | **[Portfolio](https://bizaza-devs.github.io)** — 0 images, 0 dependencies, light/dark theme, live GitHub data | HTML · CSS · JS | live |
+| 03 | **[Portfolio](https://bizaza-devs.github.io)** — v2: editorial design, GSAP motion, bklit-style activity charts, light/dark, live GitHub data | HTML · CSS · JS · GSAP | live |
 | 04 | **[Vivaldi Workspace](https://github.com/Bizaza-devs/vivaldi-workspace)** — Gemini Panel browser extension, privacy setup script, macOS-style UI | JS · Manifest V3 · Gemini API · Python | building |
 | 05 | **[Login pages](https://github.com/Bizaza-devs/login-pages)** — sign-in, create-account and reset-password, plain HTML/CSS/JS, accessible, dark/light | HTML · CSS · JS | live
 
