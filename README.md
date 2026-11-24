@@ -20,6 +20,15 @@
 | 04 | **[Vivaldi Workspace](https://github.com/Bizaza-devs/vivaldi-workspace)** — Gemini Panel browser extension, privacy setup script, macOS-style UI | JS · Manifest V3 · Gemini API · Python | building |
 | 05 | **[Login pages](https://github.com/Bizaza-devs/login-pages)** — sign-in, create-account and reset-password, plain HTML/CSS/JS, accessible, dark/light | HTML · CSS · JS | live
 
+### Previews
+
+<a href="https://bizaza-devs.github.io"><img alt="Portfolio" src="https://bizaza-devs.github.io/docs/images/portfolio-preview-dark.jpg"></a>
+
+<table><tr>
+<td width="50%"><a href="https://github.com/Bizaza-devs/login-pages"><img alt="Login pages" src="https://bizaza-devs.github.io/login-pages/docs/images/login-preview-dark.png"></a><br><sub><b>Login pages</b> · HTML · CSS · JS</sub></td>
+<td width="50%"><a href="https://github.com/Bizaza-devs/vivaldi-workspace"><img alt="Gemini Panel" src="https://raw.githubusercontent.com/Bizaza-devs/vivaldi-workspace/main/docs/images/gemini-panel-dark.png"></a><br><sub><b>Gemini Panel</b> · JS · Manifest V3 · Gemini API</sub></td>
+</tr></table>
+
 ### Stack
 
 ```text
